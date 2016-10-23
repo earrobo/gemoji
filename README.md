@@ -113,3 +113,4 @@ end
 Emoji.find_by_alias "music"       #=> emoji
 Emoji.find_by_unicode "\u{266b}"  #=> emoji
 ```
+I would like to collaborate.
